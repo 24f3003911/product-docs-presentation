@@ -32,6 +32,8 @@ h1, h2 {
 # Slide With Background
 
 This slide uses a background image!
+
+---
 # Getting Started
 
 - Easy setup
