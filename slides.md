@@ -28,7 +28,10 @@ h1, h2 {
 
 ---
 
-<!-- _backgroundImage: url('https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=800&q=80') -->
+<!-- _backgroundImage: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fhydrangea.com%2Fblogs%2Fgrowing-tips%2Fthe-straight-facts-on-hydrangea-flower-color%3Fsrsltid%3DAfmBOoqwxHLT7IPjkCvZDHVp2kGuCd9umXwfoM2IQN0BI20kxKZU-I0-&psig=AOvVaw3AsBB9es91xQshMf0jFcgs&ust=1755799904667000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIid6r7-mY8DFQAAAAAdAAAAABAE') -->
+# Slide With Background
+
+This slide uses a background image!
 # Getting Started
 
 - Easy setup
